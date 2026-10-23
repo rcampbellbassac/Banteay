@@ -1,0 +1,24 @@
+{
+ "name": "Banteay",
+ "slug": "Banteay",
+ "native": "បន្ទាយ",
+ "version": "0.100",
+ "cat": "traditional",
+ "title": "Vertical-stress classic",
+ "insp": "Moul, Bokor, Noto Serif",
+ "bases": {
+  "lao": "lao-looped",
+  "thai": "thai-looped",
+  "khmer": "khmer",
+  "latin": "latin"
+ },
+ "recipe": [
+  {
+   "op": "nib",
+   "shape": "line",
+   "w": 125,
+   "h": 16,
+   "angle": 0
+  }
+ ]
+}
